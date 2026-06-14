@@ -1,2 +1,3 @@
 # twitter-bot
-ربات توییتر به تلگرام
+
+Twitter Notifier
